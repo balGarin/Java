@@ -1,4 +1,4 @@
-# Hay , thus is a cheat shit!!
+# Hay , this is a cheat shit!!
 
 
 #### These commands  will help you to your meet with _Git_
@@ -13,7 +13,7 @@ _Enter these commands in your repository  take turn , using Terminal app :_
 
 ### _Подготовка файла к коммиту_
 
-* ```gitadd ``` (todo.txt) (от англ. add, «добавить») — подготовь файл (todo.txt) к коммиту;   
+* ```git add ``` (todo.txt) (от англ. add, «добавить») — подготовь файл (todo.txt) к коммиту;   
 
 * ```git add --all``` (от англ. add, «добавить» + all, «всё») — подготовь к коммиту сразу все файлы, 
 в которых были изменения, и все новые файлы.
