@@ -8,3 +8,4 @@ Hello Java
 Для перехода в ветку есть команда `git checkout %BRANCH_NAME%`.
 
 С помощью команды `git merge` можно слить две ветки в одну. 
+new
